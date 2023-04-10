@@ -8,7 +8,8 @@ To start the program.
 ### Step 2: 
 Import math and enter the values of x and y.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
+ ![formula](/formula.jpg)
 ### Step 4: 
 Print the output value.
 ### PROGRAM: 
