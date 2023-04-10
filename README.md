@@ -9,6 +9,7 @@ To start the program.
 Import math and enter the values of x and y.
 ### Step 3: 
 Substitute the values in the distance formula 
+
 ![formula](https://user-images.githubusercontent.com/119478181/230822247-dc5dea40-f325-4407-b55b-826b212558af.jpeg)
 
 ### Step 4: 
