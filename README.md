@@ -30,3 +30,4 @@ print("{:.2f}".format(distance))
 
 ### RESULT:
 The above program shown successfully the distance between the two points.
+
